@@ -12,7 +12,7 @@ class VaultDoorTraining {
 	} else {
 	    System.out.println("Access denied!");
 	}
-    // String var = "________w4rm1ng_Up_w1tH_jAv4_3808d338b46f";
+    // String var = "picoCTF{w4rm1ng_Up_w1tH_jAv4_3808d338b46f}";
     // System.out.println(var.substring("picoCTF{".length(),var.length()-1));
    }
 
